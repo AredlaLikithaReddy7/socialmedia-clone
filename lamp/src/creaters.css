@@ -1,0 +1,35 @@
+.content3,.content4,.content5,.content6
+{
+    opacity: 0;
+    height: 0;
+    width: 100%;
+    transition: 0.5s;
+}
+.card3:hover .content3,.card4:hover .content4,.card5:hover .content5,.card6:hover .content6
+{
+    transition: 0.5s;
+    height: 150px;
+    width: 100%;
+    opacity: 1;
+}
+.card3
+{
+background-color:rgb(255, 187, 198);
+border-top-left-radius: 10px;
+border-bottom-left-radius: 10px;
+
+}
+.card4
+{
+  background-color:rgb(255, 244, 149)
+}
+.card5
+{
+       background-color:rgb(255, 139, 139)
+}
+.card6
+{
+     background-color:rgb(255, 197, 88);
+     border-top-right-radius: 10px;
+     border-bottom-right-radius: 10px;
+}

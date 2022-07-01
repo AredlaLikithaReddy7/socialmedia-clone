@@ -1,0 +1,39 @@
+.input_search_bar
+{
+    border:none;
+    border-radius: 50px;
+    margin-right: 30px;
+    width: 400px;
+    transition: 0.4s ease-in;
+}
+.search_bar_button
+{
+    border:none;
+    transition: 0.4s ease-in;
+    margin-top: 20px;
+    border-radius: 100%;
+    width: 70px;
+    height: 70px;
+    background-color:white
+
+    
+}
+.search_engine
+{
+    margin-top: 25%;
+    
+   
+}
+.search_bar_button:hover,.input_search_bar:hover
+{
+    border:none;
+    background-color:rgb(255, 237, 240);
+    transform: scale(1.1);
+    box-shadow: 1px 5px 20px rgb(252, 249, 252)
+    
+}
+.search_bar_heading
+{
+    font-size: 80px;
+}
+

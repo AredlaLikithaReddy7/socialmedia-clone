@@ -1,0 +1,16 @@
+.articles_images
+{
+    width: 500px;
+    height: 500px;
+   border-radius:10px;
+  margin-left: 25%;
+}
+.articles_background
+{
+    background-color: white;
+    border-radius:20px
+}
+.articles_list
+{
+    box-shadow: 1px 5px 20px rgb(252, 249, 252)
+}

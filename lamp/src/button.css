@@ -1,0 +1,133 @@
+.btn1
+{
+    background-color: rgb(185, 218, 255);
+    border-radius: 10px;
+    border: none;
+}
+.one{
+    font-family:fantasy;
+}
+.one
+{
+    transition: 0.4s ease-out;
+}
+.one:hover
+{
+    transition: 0.4s ease-in;
+  transform: scale(1.05);
+}
+.btn2
+{
+    background-color: rgb(185, 218, 255);
+    border-radius: 10px;
+    border: none;
+}
+.btn3
+{
+    background-color: rgb(254, 255, 175);
+    border-radius: 10px;
+    border: none;
+}
+.btn4
+{
+    background-color: rgb(255, 196, 247);
+    border-radius: 10px;
+    border: none;
+}
+.btn5
+{
+    background-color: rgb(176, 248, 218);
+    border-radius: 10px;
+    border: none;
+}
+
+.btn6
+{
+    background-color: rgb(255, 225, 159);
+    border-radius: 10px;
+    border: none;
+}
+.btn7
+{
+    background-color: rgb(160, 167, 175);
+    border-radius: 10px;
+    border: none;
+}
+.btn8
+{
+    background-color: rgb(77, 160, 255);
+    border-radius: 10px;
+    border: none;
+}
+.btn9
+{
+    background-color: rgb(173, 211, 255);
+    border-radius: 10px;
+    border: none;
+}
+.btn10
+{
+    background-color: rgb(185, 235, 255);
+    border-radius: 10px;
+    border: none;
+}
+.btn11
+{
+    background-color: rgb(255, 119, 119);
+    border-radius: 10px;
+    border: none;
+}
+.btn12
+{
+    background-color: rgb(210, 198, 255);
+    border-radius: 10px;
+    border: none;
+}
+.btn13
+{
+    background-color: rgb(248, 240, 194);
+    border-radius: 10px;
+    border: none;
+}
+.btn14
+{
+    background-color: rgb(200, 225, 231);
+    border-radius: 10px;
+    border: none;
+}
+.btn15
+{
+    background-color: rgb(235, 185, 255);
+    border-radius: 10px;
+    border: none;
+}
+.btn16
+{
+    background-color: rgb(134, 177, 230);
+    border-radius: 10px;
+    border: none;
+}
+.btn17
+{
+    background-color: rgb(239, 219, 255);
+    border-radius: 10px;
+    border: none;
+}
+.btn18
+{
+    background-color: rgb(185, 255, 214);
+    border-radius: 10px;
+    border: none;
+}
+.btn19
+{
+    background-color: rgb(206, 206, 206);
+    border-radius: 10px;
+    border: none;
+}
+.btn20
+{
+    background-color: rgb(253, 255, 161);
+    border-radius: 10px;
+    border: none;
+}

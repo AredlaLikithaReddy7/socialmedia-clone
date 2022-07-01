@@ -1,0 +1,32 @@
+*{
+    font-family:fantasy
+}
+.header_text
+{
+    font-size:250px;
+    position: absolute;
+    color: rgb(255, 255, 255);
+    text-shadow:0px 0px 20px rgb(255, 255, 255) ;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.header_image
+{
+   
+   border:5px 5px 10px solid black;
+}
+.facebook{
+    position: absolute;
+   width: 80px;
+   height: 80px;
+   border-radius: 100%;
+    animation: mymove;
+    left: 30%;
+    top: 65%;
+    animation-duration: 5s;
+    animation-iteration-count: 1;
+    
+  }
+  
+
